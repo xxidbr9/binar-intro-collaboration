@@ -7,9 +7,11 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 1. pertama fork dlu repo ini 
 <img width="117" alt="Jepretan Layar 2022-03-13 pukul 12 31 38" src="./.github/assets/fork.png">
 
+2. Buat `branch` kalian sendiri dengan mengambil dari `branch master`.
+
 2. dan setelah itu kalian bisa mulai buat file berdasarkan username github kalian contoh ```xxidbr9.md``` , dan isi dengan biodata diri kalian
 
-2. untuk kalian yang sudah paham bisa lanjut buat bikin `pull request`
+2. untuk kalian yang sudah paham bisa lanjut buat bikin `pull request` dari `branch` yang sudah kalian buat.
 
 2. kalau kalian yang bingung cara kolaborasinya bagaimana, kalian yang sudah paham bisa bantu temen kalian yang kesulitan.
 
