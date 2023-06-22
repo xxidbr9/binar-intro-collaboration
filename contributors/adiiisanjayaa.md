@@ -66,13 +66,13 @@ I'm passionate about my work. Because I like what I do, I have worked as a websi
     </td>
     <td align="center" width="96">
       <a href="#strapi">
-        <img src="./img/strapi.png" width="48" height="48" alt="Strapi" />
+        <img src="../img/strapi.png" width="48" height="48" alt="Strapi" />
       </a>
       <br>Strapi
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="../img/git.png" width="48" height="48" alt="Git" />
+        <img src="../img/git.jpeg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
