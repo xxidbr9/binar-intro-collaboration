@@ -17,8 +17,8 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 
 ### BIODATA KONTRIBUTOR
 <!-- Tambah nama lengkap kalian dan link ke file yang kalian buat  -->
-<!-- [nama_lengkap_kalian](./<username>.md) -->
-- [Barnando Akbarto Hidayatullah](./xxidbr9.md)
+<!-- [nama_lengkap_kalian](./contributors/<username>.md) -->
+- [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
