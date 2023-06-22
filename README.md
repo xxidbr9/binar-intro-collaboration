@@ -9,7 +9,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 
 2. Buat `branch` kalian sendiri dengan mengambil dari `branch master`.
 
-2. dan setelah itu kalian bisa mulai buat file berdasarkan username github kalian contoh ```xxidbr9.md``` , dan isi dengan biodata diri kalian
+2. dan setelah itu kalian bisa mulai buat file berdasarkan username github kalian contoh ```xxidbr9.md``` di folder `./contributors`, dan isi dengan biodata diri kalian, jangan lupa tambah link menuju biodata di file `README.md` ini!!.
 
 2. untuk kalian yang sudah paham bisa lanjut buat bikin `pull request` dari `branch` yang sudah kalian buat.
 
