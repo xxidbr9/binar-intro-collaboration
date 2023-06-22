@@ -1,4 +1,4 @@
-# Hi, I'm Aral Roca
+# Hi, I'm Rabian Ikwan
 
 
 
@@ -11,16 +11,16 @@
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/rabian_ikhwan" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+    <img align="center" src="https://www.svgrepo.com/show/22159/twitter.svg" alt="twitter" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/21764901/rabian-ikwan" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+    <img align="center" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/stackoverflow-color-icon.svg" alt="stackoverflow" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rabian-ikwan-89a025273/" target="_blank" style='margin-right:10px'>
     <img align="center" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+    src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
 <hr>
