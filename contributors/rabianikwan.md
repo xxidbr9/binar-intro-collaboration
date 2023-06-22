@@ -1,16 +1,13 @@
 # Hi, I'm Aral Roca
 
-<div align="right">
-  <a href="#">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
+
 
 <p align="center">
   <a href="https://rabianikwan.github.io">
-    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+    <img width="100" src="https://logosandtypes.com/wp-content/uploads/2022/07/remind.svg" alt="logo" />
   </a>
 </p>
+<br>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/rabian_ikhwan" target="_blank" style='margin-right:10px'>
@@ -26,7 +23,9 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
   </a>
   &nbsp;&nbsp;
-
+<hr>
+<br>
+<br>
 I'm a Full-Stack developer who likes to work with JavaScript and Python.
 
 <div align="center">
