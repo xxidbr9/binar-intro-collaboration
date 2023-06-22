@@ -1,4 +1,4 @@
-# Barnando (Nando) Akbarto Hidayatullah
+# Barnando Akbarto Hidayatullah - Nando
 
 Introducing Barnando, also known as Nando, a programming aficionado since 2016. With a strong focus on exploring FOSS (Free Open Source Software) and actively contributing to multiple Open Source projects, he's constantly honing his skills.
 
