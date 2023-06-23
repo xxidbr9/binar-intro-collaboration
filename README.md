@@ -27,7 +27,6 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
 - [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
-- [Rabian Ikwan](./contributors/rabianikwan.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
