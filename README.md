@@ -21,7 +21,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 <!-- Tambah nama lengkap kalian dan link ke file yang kalian buat  -->
 <!-- [nama_lengkap_kalian](./contributors/<username>.md) -->
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
-
+- [Yudha Adhi Pangestu](./contributors/accelup.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
