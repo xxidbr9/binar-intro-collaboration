@@ -24,7 +24,16 @@
       "contributions": [
         "code"
       ]
-    }
+    },
+    {
+      "login": "rabianikwan",
+      "name": "Rabian Ikwan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72639592?v=4",
+      "profile": "https://github.com/rabianikwan",
+      "contributions": [
+         "code"
+      ]
+    },
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
