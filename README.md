@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -49,6 +49,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AgriAdhiatma24"><img src="https://avatars.githubusercontent.com/u/55662573?v=4?s=100" width="100px;" alt="AgriAdhiatma24"/><br /><sub><b>AgriAdhiatma24</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=AgriAdhiatma24" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dimasrdika"><img src="https://avatars.githubusercontent.com/u/126640070?v=4?s=100" width="100px;" alt="Dimas Rachmadika"/><br /><sub><b>Dimas Rachmadika</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=dimasrdika" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yrdikaa"><img src="https://avatars.githubusercontent.com/u/137188836?v=4?s=100" width="100px;" alt="yrdikaa"/><br /><sub><b>yrdikaa</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=yrdikaa" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lobaydev"><img src="https://avatars.githubusercontent.com/u/33747552?v=4?s=100" width="100px;" alt="Rizki Kurnia Putra"/><br /><sub><b>Rizki Kurnia Putra</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=lobaydev" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
