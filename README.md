@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -30,7 +30,12 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
+<<<<<<< HEAD
 >>>>>>> 1f416b88d760eae2d71cab20c3faba0ac3a70992
+=======
+- [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
+- [Dimas Rachmadika](./contributors/dimasrdika.md)
+>>>>>>> 7a0a26a79a2691bbda778044f48f8bd0cc65d321
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
@@ -47,6 +52,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://github.com/xxidbr9"><img src="https://avatars.githubusercontent.com/u/51733515?v=4?s=100" width="100px;" alt="Barnando Akbarto Hidayatullah"/><br /><sub><b>Barnando Akbarto Hidayatullah</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=xxidbr9" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/adiiisanjayaa"><img src="https://avatars.githubusercontent.com/u/72197878?v=4?s=100" width="100px;" alt="I Putu Adi Sanjaya"/><br /><sub><b>I Putu Adi Sanjaya</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=adiiisanjayaa" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AgriAdhiatma24"><img src="https://avatars.githubusercontent.com/u/55662573?v=4?s=100" width="100px;" alt="AgriAdhiatma24"/><br /><sub><b>AgriAdhiatma24</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=AgriAdhiatma24" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dimasrdika"><img src="https://avatars.githubusercontent.com/u/126640070?v=4?s=100" width="100px;" alt="Dimas Rachmadika"/><br /><sub><b>Dimas Rachmadika</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=dimasrdika" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
