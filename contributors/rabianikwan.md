@@ -42,7 +42,7 @@ A few months ago I realized that I wanted to focus my efforts on building my por
 
 #### 📖 &nbsp;&nbsp;[rabianikwan.github.io](https://github.com/rabianikwan): 
 
-* [Whatsapp bot integration with chatgpt, recognize NLP (voice input), video donwnloader and image sender ](https://github.com/rabianikwan/WA-chatgpt)
+* [Whatsapp bot integration with chatgpt](https://github.com/rabianikwan/WA-chatgpt)
 * [Web Game - Simon Game](https://github.com/rabianikwan/simon-game)
 * [Autofill Form using Selenium](https://github.com/rabianikwan/mutu)
 <br />
