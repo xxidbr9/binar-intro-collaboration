@@ -17,49 +17,49 @@ even thorugh im little dizzy🤯
   <tr>
     <td align="center" width="96">
       <a href="#html">
-        <img src="./img/html-5.png" width="48" height="48" alt="html" />
+        <img src="../.github/assets/dimasrdika/html-5.png" width="48" height="48" alt="html" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#css">
-        <img src="./img/css-3.png" width="48" height="48" alt="css" />
+        <img src="../.github/assets/dimasrdika/css-3.png" width="48" height="48" alt="css" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#javascript">
-        <img src="./img/js.png" width="48" height="48" alt="javascript" />
+        <img src="../.github/assets/dimasrdika/js.png" width="48" height="48" alt="javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#bootstrap">
-        <img src="./img/bootstrap.png" width="48" height="48" alt="bootstrap" />
+        <img src="../.github/assets/dimasrdika/bootstrap.png" width="48" height="48" alt="bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#react-js">
-        <img src="./img/react.png" width="48" height="48" alt="react js" />
+        <img src="../.github/assets/dimasrdika/react.png" width="48" height="48" alt="react js" />
       </a>
       <br>React js
     </td>
     <td align="center" width="96">
       <a href="#tailwindcss" >
-        <img src="./img/tailwind-css.png" width="48" height="48" alt="tailwindcss" />
+        <img src="../.github/assets/dimasrdika/tailwind-css.png" width="48" height="48" alt="tailwindcss" />
       </a>
       <br>TailwindCss
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="./img/git.png" width="48" height="48" alt="Git" />
+        <img src="../.github/assets/dimasrdika/git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="github.com/dimasrdika" >
-        <img src="./img/github-sign.png" width="48" height="48" alt="github" />
+        <img src="../.github/assets/dimasrdika/github-sign.png" width="48" height="48" alt="github" />
       </a>
       <br>Github
     </td>
