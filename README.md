@@ -28,9 +28,9 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
 - [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
 - [Dimas Rachmadika](./contributors/dimasrdika.md)
-- [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Muhamad Yusuf Rama Dika](./contributors/ramadika.md)
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
+- [Rabian Ikwan](./contributors/rabianikwan.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
