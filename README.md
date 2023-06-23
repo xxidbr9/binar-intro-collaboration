@@ -30,6 +30,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Dimas Rachmadika](./contributors/dimasrdika.md)
 - [Muhamad Yusuf Rama Dika](./contributors/ramadika.md)
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
+- [Rabian Ikwan](./contributors/rabianikwan.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
