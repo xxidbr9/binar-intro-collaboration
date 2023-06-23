@@ -42,49 +42,49 @@ I'm passionate about my work. Because I like what I do, I have worked as a websi
   <tr>
     <td align="center" width="96">
       <a href="#flutter">
-        <img src="../img/flutter.png" width="48" height="48" alt="Flutter" />
+        <img src="../.github/assets/adiiisanjayaa/img/flutter.png" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#reactnative">
-        <img src="../img/react.png" width="48" height="48" alt="React Native" />
+        <img src="../.github/assets/adiiisanjayaa/img/react.png" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
     </td>
     <td align="center" width="96">
       <a href="#firebase">
-        <img src="../img/firebase.png" width="48" height="48" alt="Firebase" />
+        <img src="../.github/assets/adiiisanjayaa/img/firebase.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#firebase">
-        <img src="../img/javascript.png" width="48" height="48" alt="Javascript" />
+        <img src="../.github/assets/adiiisanjayaa/img/javascript.png" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#strapi">
-        <img src="../img/strapi.png" width="48" height="48" alt="Strapi" />
+        <img src="../.github/assets/adiiisanjayaa/img/strapi.png" width="48" height="48" alt="Strapi" />
       </a>
       <br>Strapi
     </td>
     <td align="center" width="96">
       <a href="#git" >
-        <img src="../img/git.jpeg" width="48" height="48" alt="Git" />
+        <img src="../.github/assets/adiiisanjayaa/img/git.jpeg" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#androidstudio" >
-        <img src="../img/androidstudio.png" width="48" height="48" alt="Android Studio" />
+        <img src="../.github/assets/adiiisanjayaa/img/androidstudio.png" width="48" height="48" alt="Android Studio" />
       </a>
       <br>Android Studio
     </td>
     <td align="center" width="96">
       <a href="#xcode" >
-        <img src="../img/xcode.png" width="48" height="48" alt="XCode" />
+        <img src="../.github/assets/adiiisanjayaa/img/xcode.png" width="48" height="48" alt="XCode" />
       </a>
       <br>XCode
     </td>
