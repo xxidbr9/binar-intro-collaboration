@@ -2,7 +2,15 @@
 
 I'm from Jakarta, Indonesia. I'm learning how to code. I love to learn and explore about new things.
 
- - I’m currently learning HTML, CSS, Javascript.
+ 
+ 
+ ---
+ 
+ - 🌱 I’m currently learning HTML, CSS, Javascript.
+ - 🧑‍🎓 I'm a bootcamp student at Binar Academy.
+ - 😀 I like to read in my free time.
+
+
 
 
 
