@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -27,11 +27,17 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
 - [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
+- [Addien Aisar Rauda](./contributors/Aisarr.md)
 - [Dimas Rachmadika](./contributors/dimasrdika.md)
 - [Muhamad Yusuf Rama Dika](./contributors/ramadika.md)
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
 - [Rabian Ikwan](./contributors/rabianikwan.md)
+<<<<<<< HEAD
 - [Sandra Marsella](./contributors/san03.md)
+=======
+- [Farhan Hermawan](./contributors/FarhanHermawan.md)
+
+>>>>>>> 989051a1c309667e6a0d5aa42dc53fa5361c1629
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
@@ -54,6 +60,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lobaydev"><img src="https://avatars.githubusercontent.com/u/33747552?v=4?s=100" width="100px;" alt="Rizki Kurnia Putra"/><br /><sub><b>Rizki Kurnia Putra</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=lobaydev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://rabianikwan.github.io"><img src="https://avatars.githubusercontent.com/u/72639592?v=4?s=100" width="100px;" alt="Rabian Ikwan"/><br /><sub><b>Rabian Ikwan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=rabianikwan" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/San033"><img src="https://avatars.githubusercontent.com/u/51733515?v=4?s=100" width="100px;" alt="Sandra Marsella"/><br /><sub><b>Sandra Marsella</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=san03" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FarhanHermawan"><img src="https://avatars.githubusercontent.com/u/137187402?v=4?s=100" width="100px;" alt="FarhanHermawan"/><br /><sub><b>FarhanHermawan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=FarhanHermawan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aisarr"><img src="https://avatars.githubusercontent.com/u/136446833?v=4?s=100" width="100px;" alt="Aisarr"/><br /><sub><b>Aisarr</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Aisarr" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
