@@ -27,11 +27,13 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
 - [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
+- [Addien Aisar Rauda](./contributors/Aisarr.md)
 - [Dimas Rachmadika](./contributors/dimasrdika.md)
 - [Muhamad Yusuf Rama Dika](./contributors/ramadika.md)
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
 - [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Farhan Hermawan](./contributors/FarhanHermawan.md)
+
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
