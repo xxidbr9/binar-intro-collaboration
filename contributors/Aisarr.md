@@ -1,3 +1,7 @@
-<img src="https://github.com/Aisarr/test_repo/blob/main/HI%20I'M.png?raw=true" height="200px">
+<img src="https://github.com/Aisarr/test_repo/blob/main/HI%20I'M.png?raw=true" height="200px" max-width=100%>
+
 My name is Aisar
+
+
+
 ![Aisarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aisarr&hide=stars,commits,prs,issues,contribs&theme=radical)
