@@ -1,6 +1,8 @@
 <img src="https://github.com/Aisarr/test_repo/blob/banner/banner.png?raw=true">
 
-My name is Aisar
+I'm from Jakarta, Indonesia. I'm learning how to code. I love to learn and explore about new things.
+
+ - I’m currently learning HTML, CSS, Javascript.
 
 
 
