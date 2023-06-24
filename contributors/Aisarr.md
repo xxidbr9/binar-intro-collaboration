@@ -1,4 +1,4 @@
-<img src="https://github.com/Aisarr/test_repo/blob/main/HI%20I'M.png?raw=true" height="200px" width=1000px>
+<img src="https://github.com/Aisarr/test_repo/blob/banner/banner.png?raw=true">
 
 My name is Aisar
 
