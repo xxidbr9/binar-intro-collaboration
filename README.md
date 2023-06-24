@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -58,6 +58,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FarhanHermawan"><img src="https://avatars.githubusercontent.com/u/137187402?v=4?s=100" width="100px;" alt="FarhanHermawan"/><br /><sub><b>FarhanHermawan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=FarhanHermawan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aisarr"><img src="https://avatars.githubusercontent.com/u/136446833?v=4?s=100" width="100px;" alt="Aisarr"/><br /><sub><b>Aisarr</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Aisarr" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
