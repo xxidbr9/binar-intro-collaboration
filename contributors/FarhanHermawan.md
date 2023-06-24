@@ -17,6 +17,5 @@ To get to know me more closely, you can follow me on social media, we can share,
 
 ![https://www.instagram.com/farhanhermawan7/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![https://mail.google.com/mail/u/0/?hl=en/#inbox?compose=GTvVlcRwRCZnfptmKGbhDWFSPhKlhjFTVplhtVXTDtnsmNVpDvvRrkTgqqkBzvfjVvqHJdzmzFRpr](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)![https://discord.gg/T7mjhQmH](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)![https://github.com/FarhanHermawan](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![https://wa.me/62816769597.](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-![Alt text](image.png)
 
 Thank you for following my social media; hopefully we can all become talented web developers and become the best.👋git push
