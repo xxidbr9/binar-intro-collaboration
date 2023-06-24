@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -53,6 +53,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yrdikaa"><img src="https://avatars.githubusercontent.com/u/137188836?v=4?s=100" width="100px;" alt="yrdikaa"/><br /><sub><b>yrdikaa</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=yrdikaa" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/lobaydev"><img src="https://avatars.githubusercontent.com/u/33747552?v=4?s=100" width="100px;" alt="Rizki Kurnia Putra"/><br /><sub><b>Rizki Kurnia Putra</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=lobaydev" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://rabianikwan.github.io"><img src="https://avatars.githubusercontent.com/u/72639592?v=4?s=100" width="100px;" alt="Rabian Ikwan"/><br /><sub><b>Rabian Ikwan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=rabianikwan" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FarhanHermawan"><img src="https://avatars.githubusercontent.com/u/137187402?v=4?s=100" width="100px;" alt="FarhanHermawan"/><br /><sub><b>FarhanHermawan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=FarhanHermawan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
