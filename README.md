@@ -32,12 +32,9 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Muhamad Yusuf Rama Dika](./contributors/ramadika.md)
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
 - [Rabian Ikwan](./contributors/rabianikwan.md)
-<<<<<<< HEAD
 - [Sandra Marsella](./contributors/san03.md)
-=======
 - [Farhan Hermawan](./contributors/FarhanHermawan.md)
 
->>>>>>> 989051a1c309667e6a0d5aa42dc53fa5361c1629
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
