@@ -1,11 +1,11 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Dimas Rachmadika</h1>
+<h1 align="left" id="macropower-title">✋ Hello there! I'm Dimas Rachmadika</h1>
 <h3 align="left">I'm Frontend Developer</h3>
 
 I'm passionate about frontend development. Because I like design, I'm enjoy study frontend developer
 even thorugh im little dizzy🤯
 
-- :office: &nbsp;I'm currently working at Kawasaki
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🏦 &nbsp;I'm currently working at Kawasaki
+- 💼 &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
