@@ -6,7 +6,7 @@ This is what I'm doing right now:
  2. i'm still a student at Syiah Kuala University.
  3. I want to be a web programmer.
 
-connect with me on **[LinkedIn]** or **[Instagram]**
+connect with me on **[LinkedIn]**
 
 [linkedin]:https://www.linkedin.com/in/azmi-alianda-0806ba244/ "Azmi Alianda LinkedIn"
 
