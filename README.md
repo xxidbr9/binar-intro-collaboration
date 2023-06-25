@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -66,6 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/San033"><img src="https://avatars.githubusercontent.com/u/137187976?v=4?s=100" width="100px;" alt="San033"/><br /><sub><b>San033</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=San033" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Kambium98"><img src="https://avatars.githubusercontent.com/u/137188176?v=4?s=100" width="100px;" alt="Kambium98"/><br /><sub><b>Kambium98</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Kambium98" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/myusrilmahendra"><img src="https://avatars.githubusercontent.com/u/130783851?v=4?s=100" width="100px;" alt="Moh. Yusril Mahendra"/><br /><sub><b>Moh. Yusril Mahendra</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=myusrilmahendra" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Milliand3"><img src="https://avatars.githubusercontent.com/u/127271671?v=4?s=100" width="100px;" alt="Milliand3"/><br /><sub><b>Milliand3</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Milliand3" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
