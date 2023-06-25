@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -34,7 +34,9 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Sandra Marsella](./contributors/san03.md)
 - [Farhan Hermawan](./contributors/FarhanHermawan.md)
+- [Moh. Yusril Mahendra](./contributors/myusrilmahendra.md)
 - [Andika Pramudita](./contributors/Kambium98.md)
+
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
