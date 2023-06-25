@@ -36,6 +36,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Farhan Hermawan](./contributors/FarhanHermawan.md)
 - [Moh. Yusril Mahendra](./contributors/myusrilmahendra.md)
 - [Andika Pramudita](./contributors/Kambium98.md)
+- [Azmi Alianda](./contributors/Milliand3.md)
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
