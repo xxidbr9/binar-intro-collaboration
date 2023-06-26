@@ -1,8 +1,8 @@
 # Adis Fawaz Guspandi - Adis
 
-My name's Adis.
-📃 I'm currently learning Javascript.
-📖 At highschool right now.
+My name's Adis.<br>
+📃 I'm currently learning Javascript.<br>
+📖 At highschool right now.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
