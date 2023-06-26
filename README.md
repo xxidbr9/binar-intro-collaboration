@@ -34,6 +34,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Sandra Marsella](./contributors/san03.md)
 - [Farhan Hermawan](./contributors/FarhanHermawan.md)
+- [Rizal Rahmatulloh](./contributors/rizalrahmatulloh.md)
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
