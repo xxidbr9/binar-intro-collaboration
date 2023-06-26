@@ -22,4 +22,11 @@ These projects cover a wide range of topics including front-end, back-end, and j
 
 📫 If you'd like to get in touch, feel free to reach out to me via email: syahinsyahkurniawan@gmail.com or +6282114189797
 
+or you can contact me at
+
+<p><a href="https://github.com/syahinsyahryan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/ryan-kurniawan-syahinsyah/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
+
 🚀 Thank you for visiting my profile! Let's create something amazing together!
