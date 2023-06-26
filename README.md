@@ -38,6 +38,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Andika Pramudita](./contributors/Kambium98.md)
 - [Azmi Alianda](./contributors/Milliand3.md)
 - [Yudha Adhi Pangestu](./contributors/accelup.md)
+- [Adis Fawaz Guspandi](./contributors/Adissosis.md)
 
 
 
