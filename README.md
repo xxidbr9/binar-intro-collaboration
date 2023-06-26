@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -70,6 +70,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/myusrilmahendra"><img src="https://avatars.githubusercontent.com/u/130783851?v=4?s=100" width="100px;" alt="Moh. Yusril Mahendra"/><br /><sub><b>Moh. Yusril Mahendra</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=myusrilmahendra" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Milliand3"><img src="https://avatars.githubusercontent.com/u/127271671?v=4?s=100" width="100px;" alt="Milliand3"/><br /><sub><b>Milliand3</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Milliand3" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/rizalrahmatulloh"><img src="https://avatars.githubusercontent.com/u/137390372?v=4?s=100" width="100px;" alt="Rizal Rahmatulloh"/><br /><sub><b>Rizal Rahmatulloh</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=rizalrahmatulloh" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AccelUp"><img src="https://avatars.githubusercontent.com/u/52312986?v=4?s=100" width="100px;" alt="AccelUp"/><br /><sub><b>AccelUp</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=AccelUp" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
