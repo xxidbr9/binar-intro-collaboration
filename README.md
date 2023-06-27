@@ -38,7 +38,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Moh. Yusril Mahendra](./contributors/myusrilmahendra.md)
 - [Andika Pramudita](./contributors/Kambium98.md)
 - [Azmi Alianda](./contributors/Milliand3.md)
-- [Yudha Adhi Pangestu](./contributors/accelup.md)
+- [Yudha Adhi Pangestu](./contributors/AccelUp.md)
 - [Muhammad Faza Ramadhana](./contributors/Fazarmd.md)
 - [Adis Fawaz Guspandi](./contributors/Adissosis.md)
 - [Muhammad Rahmat Amin](./contributors/RahmattAmin.md)
