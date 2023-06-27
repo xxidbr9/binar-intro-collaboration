@@ -43,7 +43,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://github.com/xxidbr9"><img src="https://avatars.githubusercontent.com/u/51733515?v=4?s=100" width="100px;" alt="Barnando Akbarto Hidayatullah"/><br /><sub><b>Barnando Akbarto Hidayatullah</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=xxidbr9" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/milkifauzan"><img src="[https://avatars.githubusercontent.com/u/72197878?v=4?s=100](https://avatars.githubusercontent.com/u/129648090?v=4)" width="100px;" alt="Milki Fauzan Tsany"/><br /><sub><b>Milki Fauzan Tsany</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=milkifauzan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/milkifauzan"><img src="https://avatars.githubusercontent.com/u/129648090?s=96&v=4" width="100px;" alt="Milki Fauzan Tsany"/><br /><sub><b>Milki Fauzan Tsany</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=milkifauzan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
