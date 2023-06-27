@@ -34,6 +34,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Sandra Marsella](./contributors/san03.md)
 - [Farhan Hermawan](./contributors/FarhanHermawan.md)
+- [Muhammad Rahmat Amin](./contributors/RahmattAmin.md)
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
@@ -61,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/FarhanHermawan"><img src="https://avatars.githubusercontent.com/u/137187402?v=4?s=100" width="100px;" alt="FarhanHermawan"/><br /><sub><b>FarhanHermawan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=FarhanHermawan" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Aisarr"><img src="https://avatars.githubusercontent.com/u/136446833?v=4?s=100" width="100px;" alt="Aisarr"/><br /><sub><b>Aisarr</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Aisarr" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/San033"><img src="https://avatars.githubusercontent.com/u/137187976?v=4?s=100" width="100px;" alt="San033"/><br /><sub><b>San033</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=San033" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RahmattAmin"><img src="https://avatars.githubusercontent.com/u/137186361?s=96&v=4" width="100px;" alt="RahmattAmin"/><br /><sub><b>RahmattAmin</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=RahmattAmin" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
