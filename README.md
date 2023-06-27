@@ -1,56 +1,14 @@
-# Hai semua 👋
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
+<h1 align="center">Hi 👋, I'm Milki Fauzan Tsany</h1>
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
-1. pertama fork dlu repo ini 
-<img width="117" alt="Jepretan Layar 2022-03-13 pukul 12 31 38" src="./.github/assets/fork.png">
+- 🌱 I’m Currently Learning **Javascript**
 
-2. Buat `branch` kalian sendiri dengan mengambil dari `branch master`.
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://dev.to/milkifauzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="milkifauzan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milkifauzantsany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milkifauzantsany" height="30" width="40" /></a>
+<a href="https://instagram.com/milkyfauzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="milkyfauzan" height="30" width="40" /></a>
+</p>
 
-2. dan setelah itu kalian bisa mulai buat file berdasarkan username github kalian contoh ```xxidbr9.md``` di folder `./contributors`, dan isi dengan biodata diri kalian, jangan lupa tambah link menuju biodata di file `README.md` ini!!.
-
-2. untuk kalian yang sudah paham bisa lanjut buat bikin `pull request` dari `branch` yang sudah kalian buat.
-
-2. kalau kalian yang bingung cara kolaborasinya bagaimana, kalian yang sudah paham bisa bantu temen kalian yang kesulitan.
-
-2. kalian bisa tiru contoh penulisan data diri disini https://zzetao.github.io/awesome-github-profile/
-
-### BIODATA KONTRIBUTOR
-<!-- Tambah nama lengkap kalian dan link ke file yang kalian buat  -->
-<!-- [nama_lengkap_kalian](./contributors/<username>.md) -->
-- [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
-
-
-<!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
-<!-- INI OTOMATIS GENERATE DARI BOT -->
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://github.com/xxidbr9"><img src="https://avatars.githubusercontent.com/u/51733515?v=4?s=100" width="100px;" alt="Barnando Akbarto Hidayatullah"/><br /><sub><b>Barnando Akbarto Hidayatullah</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=xxidbr9" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
