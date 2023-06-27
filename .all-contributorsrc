@@ -24,3 +24,182 @@
   "projectName": "binar-intro-collaboration",
   "projectOwner": "xxidbr9"
 }
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "xxidbr9",
+      "name": "Barnando Akbarto Hidayatullah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51733515?v=4",
+      "profile": "http://github.com/xxidbr9",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "adiiisanjayaa",
+      "name": "I Putu Adi Sanjaya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72197878?v=4",
+      "profile": "https://github.com/adiiisanjayaa",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AgriAdhiatma24",
+      "name": "AgriAdhiatma24",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55662573?v=4",
+      "profile": "https://github.com/AgriAdhiatma24",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "dimasrdika",
+      "name": "Dimas Rachmadika",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126640070?v=4",
+      "profile": "https://github.com/dimasrdika",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "yrdikaa",
+      "name": "yrdikaa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137188836?v=4",
+      "profile": "https://github.com/yrdikaa",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lobaydev",
+      "name": "Rizki Kurnia Putra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33747552?v=4",
+      "profile": "https://github.com/lobaydev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rabianikwan",
+      "name": "Rabian Ikwan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72639592?v=4",
+      "profile": "http://rabianikwan.github.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "FarhanHermawan",
+      "name": "FarhanHermawan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137187402?v=4",
+      "profile": "https://github.com/FarhanHermawan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Aisarr",
+      "name": "Aisarr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136446833?v=4",
+      "profile": "https://github.com/Aisarr",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "San033",
+      "name": "San033",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137187976?v=4",
+      "profile": "https://github.com/San033",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Kambium98",
+      "name": "Kambium98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137188176?v=4",
+      "profile": "https://github.com/Kambium98",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "myusrilmahendra",
+      "name": "Moh. Yusril Mahendra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130783851?v=4",
+      "profile": "https://github.com/myusrilmahendra",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Milliand3",
+      "name": "Milliand3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127271671?v=4",
+      "profile": "https://github.com/Milliand3",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rizalrahmatulloh",
+      "name": "Rizal Rahmatulloh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/137390372?v=4",
+      "profile": "https://github.com/rizalrahmatulloh",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AccelUp",
+      "name": "AccelUp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52312986?v=4",
+      "profile": "https://github.com/AccelUp",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Adissosis",
+      "name": "Adissosis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109132874?v=4",
+      "profile": "https://github.com/Adissosis",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Fazarmd",
+      "name": "Faza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66399146?v=4",
+      "profile": "https://github.com/Fazarmd",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "binar-intro-collaboration",
+  "projectOwner": "xxidbr9"
+}
+    {
+      "login": "MilkiFauzan",
+      "name": "Milki",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129648090?s=96&v=4",
+      "profile": "https://github.com/MilkiFauzan",
+      "contributions": [
+        "code"
+      ]
+    }
