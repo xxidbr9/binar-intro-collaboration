@@ -32,7 +32,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
 - [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Sandra Marsella](./contributors/san03.md)
-- [Farhan Hermawan](./contributors/FarhanHermawan.md)
+- [Farhan Hermawan](./contributors/FarhanHermawan.md) 
 - [Rizal Rahmatulloh](./contributors/rizalrahmatulloh.md)
 - [Moh. Yusril Mahendra](./contributors/myusrilmahendra.md)
 - [Andika Pramudita](./contributors/Kambium98.md)
@@ -40,6 +40,8 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Yudha Adhi Pangestu](./contributors/accelup.md)
 - [Muhammad Faza Ramadhana](./contributors/Fazarmd.md)
 - [Adis Fawaz Guspandi](./contributors/Adissosis.md)
+- [Muhammad Rahmat Amin](./contributors/RahmattAmin.md)
+
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
