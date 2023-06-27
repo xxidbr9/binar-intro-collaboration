@@ -27,7 +27,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 <!-- [nama_lengkap_kalian](./contributors/<username>.md) -->
 
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
-- [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
+- [Milki Fauzan Tsany](./contributors/milkifauzan.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
