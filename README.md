@@ -23,6 +23,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 
 <!-- Tambah nama lengkap kalian dan link ke file yang kalian buat  -->
 <!-- [nama_lengkap_kalian](./contributors/<username>.md) -->
+
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
 - [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
@@ -41,8 +42,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Muhammad Faza Ramadhana](./contributors/Fazarmd.md)
 - [Adis Fawaz Guspandi](./contributors/Adissosis.md)
 - [Muhammad Rahmat Amin](./contributors/RahmattAmin.md)
-
-
+- [Ryan Kurniawan Syahinsyah](./contributors/syahinsyahryan.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
