@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -75,6 +75,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AccelUp"><img src="https://avatars.githubusercontent.com/u/52312986?v=4?s=100" width="100px;" alt="AccelUp"/><br /><sub><b>AccelUp</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=AccelUp" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adissosis"><img src="https://avatars.githubusercontent.com/u/109132874?v=4?s=100" width="100px;" alt="Adissosis"/><br /><sub><b>Adissosis</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Adissosis" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Fazarmd"><img src="https://avatars.githubusercontent.com/u/66399146?v=4?s=100" width="100px;" alt="Faza"/><br /><sub><b>Faza</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Fazarmd" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
