@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -23,6 +23,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 
 <!-- Tambah nama lengkap kalian dan link ke file yang kalian buat  -->
 <!-- [nama_lengkap_kalian](./contributors/<username>.md) -->
+
 - [Barnando Akbarto Hidayatullah](./contributors/xxidbr9.md)
 - [I Putu Adi Sanjaya](./contributors/adiiisanjayaa.md)
 - [Philipus Agri Adhiatma](./contributors/AgriAdhiatma24.md)
@@ -32,14 +33,17 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Rizki Kurnia Putra](./contributors/lobaydev.md)
 - [Rabian Ikwan](./contributors/rabianikwan.md)
 - [Sandra Marsella](./contributors/san03.md)
-- [Farhan Hermawan](./contributors/FarhanHermawan.md)
+- [Farhan Hermawan](./contributors/FarhanHermawan.md) 
 - [Rizal Rahmatulloh](./contributors/rizalrahmatulloh.md)
 - [Moh. Yusril Mahendra](./contributors/myusrilmahendra.md)
 - [Andika Pramudita](./contributors/Kambium98.md)
 - [Azmi Alianda](./contributors/Milliand3.md)
-- [Yudha Adhi Pangestu](./contributors/accelup.md)
 - [Deni Prayoga](./contributors/deni.md)
-
+- [Yudha Adhi Pangestu](./contributors/AccelUp.md)
+- [Muhammad Faza Ramadhana](./contributors/Fazarmd.md)
+- [Adis Fawaz Guspandi](./contributors/Adissosis.md)
+- [Muhammad Rahmat Amin](./contributors/RahmattAmin.md)
+- [Ryan Kurniawan Syahinsyah](./contributors/syahinsyahryan.md)
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
@@ -74,6 +78,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AccelUp"><img src="https://avatars.githubusercontent.com/u/52312986?v=4?s=100" width="100px;" alt="AccelUp"/><br /><sub><b>AccelUp</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=AccelUp" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adissosis"><img src="https://avatars.githubusercontent.com/u/109132874?v=4?s=100" width="100px;" alt="Adissosis"/><br /><sub><b>Adissosis</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Adissosis" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Fazarmd"><img src="https://avatars.githubusercontent.com/u/66399146?v=4?s=100" width="100px;" alt="Faza"/><br /><sub><b>Faza</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Fazarmd" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/RahmattAmin"><img src="https://avatars.githubusercontent.com/u/137186361?v=4?s=100" width="100px;" alt="RahmattAmin"/><br /><sub><b>RahmattAmin</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=RahmattAmin" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/syahinsyahryan"><img src="https://avatars.githubusercontent.com/u/102628810?v=4?s=100" width="100px;" alt="syahinsyah"/><br /><sub><b>syahinsyah</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=syahinsyahryan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
