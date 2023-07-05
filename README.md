@@ -1,7 +1,7 @@
 # Hai semua 👋
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
@@ -84,6 +84,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/RahmattAmin"><img src="https://avatars.githubusercontent.com/u/137186361?v=4?s=100" width="100px;" alt="RahmattAmin"/><br /><sub><b>RahmattAmin</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=RahmattAmin" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/syahinsyahryan"><img src="https://avatars.githubusercontent.com/u/102628810?v=4?s=100" width="100px;" alt="syahinsyah"/><br /><sub><b>syahinsyah</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=syahinsyahryan" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nagitu"><img src="https://avatars.githubusercontent.com/u/118797521?v=4?s=100" width="100px;" alt="Nagitu"/><br /><sub><b>Nagitu</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=Nagitu" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/rizkyr99"><img src="https://avatars.githubusercontent.com/u/38162104?v=4?s=100" width="100px;" alt="Rizky Ramadhan"/><br /><sub><b>Rizky Ramadhan</b></sub></a><br /><a href="https://github.com/xxidbr9/binar-intro-collaboration/commits?author=rizkyr99" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
