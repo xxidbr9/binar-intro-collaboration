@@ -44,6 +44,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Adis Fawaz Guspandi](./contributors/Adissosis.md)
 - [Muhammad Rahmat Amin](./contributors/RahmattAmin.md)
 - [Ryan Kurniawan Syahinsyah](./contributors/syahinsyahryan.md)
+- [Rizky Ramadhan](./contributors/rizkyr99.md)
 
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
